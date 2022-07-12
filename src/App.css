@@ -1,0 +1,5 @@
+.game__graphBackground {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
