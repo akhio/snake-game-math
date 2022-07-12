@@ -1,5 +1,22 @@
-.game__graphBackground {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.game {
+  margin-left: 70px;
+}
+
+.control__button-other {
+  position: absolute;
+  right: 100px;
+  bottom: 40px;
+}
+
+.control__button-other-reset {
+    position: absolute;
+    right: 150px;
+}
+
+.control__button-submit button {
+    position: absolute;
+    bottom: 30px;
+    left: 300px;
+    width: 150px;
+    height: 40px
 }
